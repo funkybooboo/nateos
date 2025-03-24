@@ -1,4 +1,4 @@
-# NateOS
+# Nateos
 A self built monolithic OS
 
 ## License
